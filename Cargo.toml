@@ -3,7 +3,7 @@ name = "img-mt"
 version = "0.1.0"
 authors = ["Sebastian Woetzel <wose@zuendmasse.de>"]
 description = """
-A tool to load huge images and do measurements on them
+A tool to load and process huge images without using too much RAM
 """
 repository = "https://github.com/wose/img-mt"
 license = "MIT"

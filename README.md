@@ -1,7 +1,7 @@
-# img-mt
+# img-mt - image measurement tool
 
 `img-mt` will be a tool to:
-  - [ ] load huge image without using too much RAM using mipmaps
+  - [ ] load and process huge image without using too much RAM by using mipmaps
   - [ ] append lots of images to a big one to work on
   - [ ] post process images
   - [ ] use different look up tables
@@ -23,5 +23,4 @@
 % cargo build --release
 % cargo run
 ```
-
 
