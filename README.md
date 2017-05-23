@@ -1,5 +1,7 @@
 # img-mt - image measurement tool
 
+[![Build Status](https://travis-ci.org/wose/img-mt.svg?branch=master)](https://travis-ci.org/wose/img-mt)
+
 `img-mt` will be a tool to:
   - [ ] load and process huge image without using too much RAM by using mipmaps
   - [ ] append lots of images to a big one to work on
